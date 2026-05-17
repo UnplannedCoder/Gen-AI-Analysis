@@ -366,7 +366,7 @@ GROUP BY U.full_name
 ORDER BY total_cost DESC
 LIMIT 10;
 
--- 12. Full Business Analytics Query
+-- 8. Full Business Analytics Query
 -- Complete AI Usage Report
 SELECT U.name,
        A.model_name,
